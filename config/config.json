@@ -1,0 +1,14 @@
+{
+  "app": "ZhanghuiDianNao",
+  "app_model": "debug",
+  "app_host":"localhost",
+  "app_post": "8079",
+  "mysql": {
+    "databases": "mysql",
+    "user":"root",
+    "passwad": "",
+    "host": "localhost",
+    "port": "3306",
+    "db_name": "vuego"
+  }
+}
